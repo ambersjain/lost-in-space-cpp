@@ -1,0 +1,36 @@
+// Ships
+BITMAP,aquarii,Aquarii.png                            
+BITMAP,gliese,Gliese.png                             
+BITMAP,pegasi,Pegasi.png                             
+// Planets
+BITMAP,earth,earth.png                              
+BITMAP,jupiter,jupiter.png
+BITMAP,mars,mars.png
+BITMAP,mercury,mercury.png
+BITMAP,neptune,neptune.png
+BITMAP,pluto,pluto.png
+BITMAP,saturn,saturn.png
+BITMAP,uranus,uranus.png
+BITMAP,venus,venus.png
+// Coins
+BITMAP,silver_coin,silver_coin.png,26,26,6,1,6
+BITMAP,bronse_coin,bronse_coin.png,26,26,6,1,6                
+BITMAP,gold_coin,gold_coin.png,26,26,6,1,6
+// Bar
+BITMAP,bar_grey_fill,,bar_grey_fill.png                              
+BITMAP,bar_white_fill,bar_white_fill.png
+BITMAP,blue_bar_bubbles,blue_bar_bubbles.png
+BITMAP,empty_bar_transparent,empty_bar_transparent.png
+BITMAP,empty,empty.png
+BITMAP,full,full.png
+BITMAP,green_bar_bubbles,green_bar_bubbles.png
+BITMAP,green_bar_lines,green_bar_lines.png
+BITMAP,orange_bar_lines,orange_bar_lines.png
+BITMAP,orange_bar,orange_bar.png
+BITMAP,purple_bar,purple_bar.png
+BITMAP,red_bar,red_bar.png
+// Other
+BITMAP,box,box.png                                
+BITMAP,empty,empty.png
+BITMAP,full,full.png
+ANIM,coins,coin_animation.txt
